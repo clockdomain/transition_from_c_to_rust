@@ -1,0 +1,6 @@
+[book]
+authors = ["syncclk"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Transitioning from C to Rust - Enhancing your Embedded Programming Toolkit"
